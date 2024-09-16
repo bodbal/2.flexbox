@@ -1,0 +1,58 @@
+.asd{
+    width: 800px;
+    height: 300px;
+    background-color: yellow;
+    display: flex;
+}
+
+.asd{
+    align-items: center;
+    justify-content:center;
+}
+
+.lila{background-color: purple;}
+.zold{background-color: green;}
+.sarga{background-color: yellow;}
+
+.zoldketto,.sargaketto{
+    display: none;
+}
+
+.alap{
+    width: 100px;
+    height: 100px;
+}
+
+.asd2{
+    width: 100%;
+    height: 400px;
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+}
+
+.asd2>li{list-style: none; margin-right: 5px;}
+
+
+.asd3{
+    width: 100%;
+    height: 400px;
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.asd3>li{list-style: none}
+
+
+.asd4{
+    width: 100%;
+    height: 400px;
+    background-color: yellow;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.asd4>li{list-style: none; margin-left: 5px;}
